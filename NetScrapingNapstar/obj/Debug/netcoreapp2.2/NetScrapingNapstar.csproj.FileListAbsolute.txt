@@ -1,0 +1,16 @@
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\NetScrapingNapstar.deps.json
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\NetScrapingNapstar.runtimeconfig.json
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\NetScrapingNapstar.runtimeconfig.dev.json
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\NetScrapingNapstar.dll
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\NetScrapingNapstar.pdb
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\Entidades.dll
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\Entidades.pdb
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\obj\Debug\netcoreapp2.2\NetScrapingNapstar.csprojAssemblyReference.cache
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\obj\Debug\netcoreapp2.2\NetScrapingNapstar.csproj.CoreCompileInputs.cache
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\obj\Debug\netcoreapp2.2\NetScrapingNapstar.AssemblyInfoInputs.cache
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\obj\Debug\netcoreapp2.2\NetScrapingNapstar.AssemblyInfo.cs
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\obj\Debug\netcoreapp2.2\NetScrapingNapstar.csproj.CopyComplete
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\obj\Debug\netcoreapp2.2\NetScrapingNapstar.dll
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\obj\Debug\netcoreapp2.2\NetScrapingNapstar.pdb
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\Repositorios.dll
+C:\Users\zaras\source\repos\Nepstar1\NetScrapingNapstar\bin\Debug\netcoreapp2.2\Repositorios.pdb

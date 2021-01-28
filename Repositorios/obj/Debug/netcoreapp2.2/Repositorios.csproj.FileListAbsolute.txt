@@ -1,0 +1,14 @@
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\bin\Debug\netcoreapp2.2\Repositorios.deps.json
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\bin\Debug\netcoreapp2.2\Repositorios.runtimeconfig.json
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\bin\Debug\netcoreapp2.2\Repositorios.runtimeconfig.dev.json
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\bin\Debug\netcoreapp2.2\Repositorios.dll
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\bin\Debug\netcoreapp2.2\Repositorios.pdb
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\bin\Debug\netcoreapp2.2\Entidades.dll
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\bin\Debug\netcoreapp2.2\Entidades.pdb
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\obj\Debug\netcoreapp2.2\Repositorios.csprojAssemblyReference.cache
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\obj\Debug\netcoreapp2.2\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\obj\Debug\netcoreapp2.2\Repositorios.AssemblyInfoInputs.cache
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\obj\Debug\netcoreapp2.2\Repositorios.AssemblyInfo.cs
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\obj\Debug\netcoreapp2.2\Repositorios.csproj.CopyComplete
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\obj\Debug\netcoreapp2.2\Repositorios.dll
+C:\Users\zaras\source\repos\Nepstar1\Repositorios\obj\Debug\netcoreapp2.2\Repositorios.pdb

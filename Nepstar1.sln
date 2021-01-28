@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepstar1", "Nepstar1\Nepstar1.csproj", "{9F88E989-C924-4AE3-8E69-E91776E955E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Front", "Front", "{C36FED50-CF5B-4AD8-AE27-CB3DFF5438AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{CDD0C34C-C156-43A6-8882-BDDF35CB4291}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{4DDD0AA5-13A1-4255-B963-383BD85CF7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{4C65DA9C-DF94-4864-B12B-9E1C09D98333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorios", "Repositorios\Repositorios.csproj", "{0E99198A-E256-4FE7-A476-3613BE8AC658}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetScraping", "NetScraping", "{D0475C67-0370-4221-B96D-550492DB359C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetScrapingNapstar", "NetScrapingNapstar\NetScrapingNapstar.csproj", "{6D9FEDF4-E17C-422E-8855-7E24E741B0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F88E989-C924-4AE3-8E69-E91776E955E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F88E989-C924-4AE3-8E69-E91776E955E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F88E989-C924-4AE3-8E69-E91776E955E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F88E989-C924-4AE3-8E69-E91776E955E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C65DA9C-DF94-4864-B12B-9E1C09D98333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C65DA9C-DF94-4864-B12B-9E1C09D98333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C65DA9C-DF94-4864-B12B-9E1C09D98333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C65DA9C-DF94-4864-B12B-9E1C09D98333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E99198A-E256-4FE7-A476-3613BE8AC658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E99198A-E256-4FE7-A476-3613BE8AC658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E99198A-E256-4FE7-A476-3613BE8AC658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E99198A-E256-4FE7-A476-3613BE8AC658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9FEDF4-E17C-422E-8855-7E24E741B0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9FEDF4-E17C-422E-8855-7E24E741B0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9FEDF4-E17C-422E-8855-7E24E741B0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9FEDF4-E17C-422E-8855-7E24E741B0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F88E989-C924-4AE3-8E69-E91776E955E1} = {C36FED50-CF5B-4AD8-AE27-CB3DFF5438AD}
+		{4C65DA9C-DF94-4864-B12B-9E1C09D98333} = {4DDD0AA5-13A1-4255-B963-383BD85CF7D5}
+		{0E99198A-E256-4FE7-A476-3613BE8AC658} = {CDD0C34C-C156-43A6-8882-BDDF35CB4291}
+		{6D9FEDF4-E17C-422E-8855-7E24E741B0E4} = {D0475C67-0370-4221-B96D-550492DB359C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FBFB55A-30FA-4AC2-8CCA-FA7CF41EBC40}
+	EndGlobalSection
+EndGlobal
