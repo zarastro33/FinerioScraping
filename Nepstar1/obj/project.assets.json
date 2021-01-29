@@ -12256,11 +12256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Nepstar1\\Nepstar1.csproj",
+      "projectUniqueName": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Nepstar1\\Nepstar1.csproj",
       "projectName": "Nepstar1",
-      "projectPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Nepstar1\\Nepstar1.csproj",
+      "projectPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Nepstar1\\Nepstar1.csproj",
       "packagesPath": "C:\\Users\\zaras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Nepstar1\\obj\\",
+      "outputPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Nepstar1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12279,8 +12279,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Repositorios\\Repositorios.csproj": {
-              "projectPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Repositorios\\Repositorios.csproj"
+            "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Repositorios\\Repositorios.csproj": {
+              "projectPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Repositorios\\Repositorios.csproj"
             }
           }
         }

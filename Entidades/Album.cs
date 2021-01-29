@@ -12,5 +12,6 @@ namespace Entidades
         public string NombreAlbum { get; set; }
         public int ArtistaId { get; set; }
         public List<Cancion> canciones { get; set; }
+        public int MyProperty { get; set; }
     }
 }

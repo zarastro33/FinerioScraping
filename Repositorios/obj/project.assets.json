@@ -7396,11 +7396,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Repositorios\\Repositorios.csproj",
+      "projectUniqueName": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Repositorios\\Repositorios.csproj",
       "projectName": "Repositorios",
-      "projectPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Repositorios\\Repositorios.csproj",
+      "projectPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Repositorios\\Repositorios.csproj",
       "packagesPath": "C:\\Users\\zaras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Repositorios\\obj\\",
+      "outputPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Repositorios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7419,8 +7419,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Entidades\\Entidades.csproj"
+            "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Entidades\\Entidades.csproj"
             }
           }
         }

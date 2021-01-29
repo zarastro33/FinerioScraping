@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\zaras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zaras\\source\\repos\\Nepstar1\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\zaras\\Source\\Repos\\zarastro33\\FinerioScraping\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
